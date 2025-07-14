@@ -43,6 +43,7 @@ class BaseSpeakerTTS(OpenVoiceBaseClass):
     language_marks = {
         "english": "EN",
         "chinese": "ZH",
+        "vietnamese": "VI",
     }
 
     @staticmethod
